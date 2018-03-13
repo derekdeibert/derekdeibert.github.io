@@ -1,7 +1,11 @@
 body {
-    backgroud: url("https://i.imgur.com/nqxpOie.jpg");
+    backgroud: url("https://imgur.com/nqxpOie");
+    text-align:left;
+    background-size: cover;
+    color:#000;
+    font-family: Helvetica;
 }
 
 h1, p, h3, h2 {
-    color: gold;
+    color: black
 }
