@@ -1,11 +1,24 @@
 body {
-    backgroud: url("images/tonya1.jpg");
+    backgroud: url("https://i.imgur.com/nqxpOie.jpg?1");
     text-align:left;
     background-size: cover;
     color:#000;
     font-family: Helvetica;
 }
 
-h1, p, h3, h2 {
+h1 {
     color: black
+    text-align:left;
+    font-size: 72px;
+    font-weight: bold;
+}
+
+h3 {
+	font-size:36px;
+	font-weight:bold;
+}
+
+p {
+	font-size: 20px;
+	font-weight: 300;
 }
