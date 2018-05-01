@@ -33,7 +33,3 @@ public class Distance {
       System.out.println("The distance between your points is" +dis);
       }
 }
-
-//Program works, but I can't figure out how to 
-//print the number with more decimal places. It is rounding
-//the value to the nearest whole number. 
