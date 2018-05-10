@@ -4,10 +4,6 @@
 // Instructor: Dr. Haddad
 // Assignment: 8
 
-//public class Account {
-    //public static void main(String[] args) {
-      // }
-//}
 
 class Account {
     private int id = 0;
